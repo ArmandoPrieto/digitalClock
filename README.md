@@ -9,6 +9,6 @@ About the clock
     
 #DEMO
 
-[The Digital Clock | Live Demo](http://www.armandoprieto.net/experiment/digitalClock)
+[The Digital Clock | Live Demo](https://armandoprieto.github.io/digitalClock/)
 
 
